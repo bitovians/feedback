@@ -8,7 +8,7 @@ Component.extend({
   view,
   ViewModel: {
     message: {
-      default: "Work in progress. Come back later."
+      default: 'Work in progress. Come back later.'
     }
   }
 })
