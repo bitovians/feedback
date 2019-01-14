@@ -4,7 +4,7 @@ import view from '~/app.stache'
 import 'styles.less'
 
 Component.extend({
-  tag: 'bitovian-feedback',
+  tag: 'bitovians-feedback',
   view,
   ViewModel: {
     message: {
