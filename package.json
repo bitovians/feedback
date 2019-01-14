@@ -1,7 +1,7 @@
 {
-  "name": "reviews",
+  "name": "bitovian-feedback",
   "version": "0.1.0",
-  "description": "Bitovian peer feedback and reviews",
+  "description": "Bitovian peer feedback",
   "main": "app.js",
   "scripts": {
     "build": "steal-tools --no-minify",
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bitovians/reviews.git"
+    "url": "git+https://github.com/bitovians/feedback.git"
   },
   "author": "Mark Stahl <mjstahl@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bitovians/reviews/issues"
+    "url": "https://github.com/bitovians/feedback/issues"
   },
-  "homepage": "https://github.com/bitovians/reviews#readme",
+  "homepage": "https://github.com/bitovians/feedback#readme",
   "devDependencies": {
     "@mjstahl/other-index": "^0.2.1",
     "node": "^10.15.0",

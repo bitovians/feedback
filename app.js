@@ -4,11 +4,11 @@ import view from '~/app.stache'
 import 'styles.less'
 
 Component.extend({
-  tag: 'bitovian-reviews',
+  tag: 'bitovian-feedback',
   view,
   ViewModel: {
     message: {
-      default: "Still a work in progress. Come back later."
+      default: "Work in progress. Come back later."
     }
   }
 })
