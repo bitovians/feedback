@@ -1,6 +1,6 @@
 if(typeof steal === "undefined") steal = {};
 steal.bundlesPath = "bundles";
-steal.main = "bitovian-feedback/app";
+steal.main = "bitovians-feedback/app";
 steal.configMain = "package.json!npm";
 steal.loadMainOnStartup = true;
 /*
